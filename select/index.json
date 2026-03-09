@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Truth.",
+  "base_artist": "TrySail",
+  "createdAt": "2026-03-09T04:50:40.350868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Honky Tonk Truth",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/01_Honky_Tonk_Truth_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Naked Truth",
+      "artist": "Abby Anderson",
+      "has_synced": false,
+      "path": "select/02_Naked_Truth_Abby_Anderson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Cold Hard Truth",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/03_The_Cold_Hard_Truth_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Truth",
+      "artist": "Jason Aldean",
+      "has_synced": true,
+      "path": "select/04_The_Truth_Jason_Aldean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Three Whiskeys And The Truth",
+      "artist": "Little Big Town",
+      "has_synced": true,
+      "path": "select/05_Three_Whiskeys_And_The_Truth_Little_Big_Town.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Truth About You",
+      "artist": "Mitchell Tenpenny",
+      "has_synced": true,
+      "path": "select/06_Truth_About_You_Mitchell_Tenpenny.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Truth Be Told",
+      "artist": "John Moreland",
+      "has_synced": true,
+      "path": "select/07_Truth_Be_Told_John_Moreland.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Struggling With My Truth",
+      "artist": "Zoe Valderrama",
+      "has_synced": false,
+      "path": "select/08_I'm_Struggling_With_My_Truth_Zoe_Valderrama.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lie To The Truth",
+      "artist": "The Young Veins",
+      "has_synced": true,
+      "path": "select/09_Lie_To_The_Truth_The_Young_Veins.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Short Truth",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/10_Short_Truth_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Only The Truth",
+      "artist": "The Last Shadow Puppets",
+      "has_synced": false,
+      "path": "select/11_Only_The_Truth_The_Last_Shadow_Puppets.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do You Want New Wave or Do You Want the Truth",
+      "artist": "Minutemen",
+      "has_synced": true,
+      "path": "select/12_Do_You_Want_New_Wave_or_Do_You_Want_the_Truth_Minutemen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Truth",
+      "artist": "S-X",
+      "has_synced": false,
+      "path": "select/13_The_Truth_S-X.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Man Named Truth",
+      "artist": "Monsters of Folk",
+      "has_synced": false,
+      "path": "select/14_Man_Named_Truth_Monsters_of_Folk.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Truth",
+      "artist": "Molly Nilsson",
+      "has_synced": true,
+      "path": "select/15_Truth_Molly_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Truth",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/16_Truth_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Truth",
+      "artist": "New Order",
+      "has_synced": false,
+      "path": "select/17_Truth_New_Order.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Truth.",
+      "artist": "TrySail",
+      "has_synced": false,
+      "path": "select/pl_01_Truth._TrySail.txt"
+    }
+  ]
+}
